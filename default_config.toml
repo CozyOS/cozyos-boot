@@ -1,0 +1,11 @@
+[main]
+kern_root = "$(devroot)/System/kern"
+user_root = "$(devroot)/User"
+
+[bootargs]
+null = "0"
+
+[bin]
+allow_32bit = false
+allow_universal = true
+allow_64bit = true 

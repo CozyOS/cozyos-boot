@@ -1,1 +1,1 @@
-# cozyos-boot
+# CozyOS Boot utility
